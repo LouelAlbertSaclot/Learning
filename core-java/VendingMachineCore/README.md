@@ -1,4 +1,5 @@
-The Vending application I created is purely using java core. No other frameworks were used except for JUNIT and Swing (UI) .
+#Simple Vending Application
+This was the coding challenge that Orbitz (Chicago) had given me during my application. They had liked the code but during the final interview, they said they were looking for a more senior developer (probably more Spring/Hibernate experience). The Vending application I created is purely using java core. No other frameworks were used except for JUNIT and Swing (UI) .
 
 Here are some of the assumptions/expectations from the Application:
 ===========================================================================================
