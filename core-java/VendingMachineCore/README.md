@@ -27,11 +27,3 @@ Notes to consider:
 ===========================================================================================
  * Facade Pattern is not properly implemented in this case as project is too simple to really show the use of the said pattern.
  * The JUNIT codes could have been made better.
-
-
-Author: 
-===========================================================================================
-Saclot, Louel Albert D.
-albert.saclot@gmail.com
-https://github.com/LouelAlbertSaclot
-http://www.linkedin.com/in/albertsaclot/
