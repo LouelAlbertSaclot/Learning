@@ -12,3 +12,4 @@ Notes to consider:
  * The output of this project should be a JAR file that the would show a simple GUI (Swing).
  * Used IntelliJ to build artifact/jar
  * project structure of the libs is not correct.
+ * No Validation was added in creating account. It requires a Credit Card Number as it can throw NumberFormatException.
